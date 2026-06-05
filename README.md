@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Oladipo Segun - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -15,13 +15,13 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+*A brief description of the project, the tools used, and the key insights derived.*
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+*A brief description of the project, the tools used, and the key insights derived.*
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+*A brief description of the project, the tools used, and the key insights derived.*
 
 
 ## 🛠️ Skills
